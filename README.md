@@ -23,3 +23,8 @@ Education/School Directories -  Basic listing of schools including address, grad
 Student Data - Personally Identifiable Information (PII) on Students enrolled in local schools,
 
 Education expenditures,
+
+
+Contributing:
+---------
+Contributions can be made by submitting them as issues (please do!)
