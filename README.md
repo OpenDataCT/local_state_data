@@ -27,4 +27,6 @@ Education expenditures,
 
 Contributing:
 ---------
-Contributions can be made by submitting them as issues (please do!)
+Contributions can be made by [submitting an issue](https://github.com/OpenDataCT/local_state_data/issues/new)
+
+ (please do!)
