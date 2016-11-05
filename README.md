@@ -30,7 +30,7 @@ Reportable diseases
 Foodborne illnesses
 
 
-Education
+Education:
 ---------
 Education/School Directories -  Basic listing of schools including address, grade types, websites, phone number abd other basic contact information.
 
