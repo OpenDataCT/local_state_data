@@ -5,12 +5,15 @@ List of Data Collected by State governments from Municipal or County governments
 Tax Data
 --------
 Property Tax Rates,
+
 Grand Lists or value of taxable property,
 
 Crime/Law Enforcement
 -----
 Crime Offenses
+
 Arrests
+
 Law Enforcement Officers Killed or Assaulted
 
 Education
