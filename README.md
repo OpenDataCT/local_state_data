@@ -1,6 +1,8 @@
 # Local Data Provided to States
-A simple list of data that State government agencies collect from municipal governments
-List of Data Collected by State governments from Municipal or County governments:
+A simple list of data that *most* state government agencies collect from municipal governments.
+It is certainly possible that not *all* states collect this data, thus it is intended to capture
+data that the vast majority of states collect from local government. In addition, this may come from
+county, city, or municipal governments; depending on the State.
 
 Tax Data
 --------
