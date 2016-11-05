@@ -1,6 +1,6 @@
 # Local Data Provided to States
 A simple list of data that *most* state government agencies formally collect from municipal governments.
-Formal data collection is intended mean: in accordance with state or federal law; or reporting requirement
+Formal data collection is intended to mean: in accordance with state or federal law; or reporting requirement
 affiliated with the distribution of state financial assistance.
 
 It is certainly possible that not *all* states collect this data, thus it is intended to capture
