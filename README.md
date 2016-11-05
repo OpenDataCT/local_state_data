@@ -1,8 +1,13 @@
 # Local Data Provided to States
-A simple list of data that *most* state government agencies collect from municipal governments.
+A simple list of data that *most* state government agencies formally collect from municipal governments.
+Formal data collection is intended mean: in accordance with state or federal law or reporting requirement
+affiliated with the distribution of state financial assistance.
+
 It is certainly possible that not *all* states collect this data, thus it is intended to capture
 data that the vast majority of states collect from local government. In addition, this may come from
 county, city, or municipal governments; depending on the State.
+
+In ad
 
 Tax Data
 --------
