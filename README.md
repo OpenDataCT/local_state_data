@@ -25,7 +25,9 @@ Student Data - Personally Identifiable Information (PII) on Students enrolled in
 Education expenditures,
 
 
-*Contributing:*
+
+
+*Want to contribute?:*
 ---------
 Contributions can be made by [submitting an issue](https://github.com/OpenDataCT/local_state_data/issues/new)
 
