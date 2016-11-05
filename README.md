@@ -9,19 +9,25 @@ county, city, or municipal governments; depending on the State.
 
 
 
-Tax Data
+Tax Data:
 --------
 Property Tax Rates,
 
 Grand Lists or value of taxable property,
 
-Crime/Law Enforcement
+Crime/Law Enforcement:
 -----
 Crime Offenses
 
 Arrests
 
 Law Enforcement Officers Killed or Assaulted
+
+Public Health:
+---------
+Reportable diseases
+Foodborne illnesses
+
 
 Education
 ---------
