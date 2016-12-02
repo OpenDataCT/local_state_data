@@ -38,8 +38,11 @@ Student Data - Personally Identifiable Information (PII) on Students enrolled in
 
 Education expenditures,
 
+Financial:
+-----------
+Comprehensive Annual Financial Report (CAFR) 
 
-
+Audits of grants & financial assistance
 
 *Want to contribute?:*
 ---------
