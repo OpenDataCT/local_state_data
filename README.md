@@ -15,6 +15,8 @@ Property Tax Rates,
 
 Grand Lists or value of taxable property,
 
+Real Estate Sales
+
 Crime/Law Enforcement:
 -----
 Crime Offenses
@@ -43,6 +45,14 @@ Financial:
 Comprehensive Annual Financial Report (CAFR) 
 
 Audits of grants & financial assistance
+
+Transportation & Infrastructure
+------------
+Road Mileage Certfication
+
+Other - Direct to Federal Agencies
+------------
+Housing Starts/Permits - To Census
 
 *Want to contribute?:*
 ---------
