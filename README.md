@@ -31,6 +31,10 @@ Reportable diseases
 
 Foodborne illnesses
 
+Births
+
+Deaths
+
 
 Education:
 ---------
@@ -50,9 +54,17 @@ Transportation & Infrastructure
 ------------
 Road Mileage Certfication
 
-Other - Direct to Federal Agencies
+Elections
+----------
+Election Results
+
+
+
+Reported Direct to Federal Agencies
 ------------
 Housing Starts/Permits - To Census
+
+Education Finance - To Cenus
 
 *Want to contribute?:*
 ---------
