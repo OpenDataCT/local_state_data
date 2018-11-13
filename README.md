@@ -17,13 +17,17 @@ Grand Lists or value of taxable property,
 
 Real Estate Sales
 
-Crime/Law Enforcement:
+Public Safety:
 -----
 Crime Offenses
 
 Arrests
 
 Law Enforcement Officers Killed or Assaulted
+
+Fire Incidents
+
+Staffing (Police, fire, ems)
 
 Public Health:
 ---------
